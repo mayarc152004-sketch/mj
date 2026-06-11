@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://manasa07-portfolio.lovable.app/$1"
+    }
+  ]
+}
